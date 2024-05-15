@@ -998,8 +998,8 @@ button:focus {
     margin-bottom: 15px;
 }
 
-#loader {
-    animation: spin 3s linear infinite;
+/* #loader {
+    animation: spin 6s linear infinite;
 }
 @keyframes spin {
     0% {
@@ -1008,7 +1008,7 @@ button:focus {
     100% {
         transform: rotate(360deg);
     }
-}
+} */
 
 .ast_about_info_img {
     float: left;
